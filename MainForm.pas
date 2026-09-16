@@ -3,9 +3,9 @@ unit MainForm;
 interface
 
 uses
-  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Windows, Messages, SysUtils, Classes, Graphics,
   Controls, Forms, Dialogs, ExtCtrls, StdCtrls, Menus,
-  Buttons, ComCtrls, Spin, Contnrs,
+  ComCtrls, Spin, Contnrs,
   Rendering3D, FurnaceComponents, FurnaceEngine, MathUtils;
 
 type
@@ -228,8 +228,8 @@ end;
 procedure TFormMain.AboutItemClick(Sender: TObject);
 begin
   ShowMessage('3D Furnace Constructor v1.0' + #13#10 +
-             'Delphi 7 OpenGL Edition' + #13#10 +
-             '© 2026 fartyna10-oss');
+             'Delphi 7 Professional Edition' + #13#10 +
+             'Copyright 2026 fartyna10-oss');
 end;
 
 end.
