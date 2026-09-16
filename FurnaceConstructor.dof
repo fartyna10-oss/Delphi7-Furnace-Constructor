@@ -1,0 +1,31 @@
+[Project]
+Name=FurnaceConstructor
+MainSource=FurnaceConstructor.dpr
+UseMake=0
+UsePackages=0
+
+[Compile]
+CompileCount=0
+OutputDir=
+UnitOutputDir=
+
+[Version Info]
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+Prerelease=0
+Special=0
+Private=0
+DLL=0
+ChangeFileDate=0
+
+[CompanyName]=fartyna10-oss
+[FileDescription]=3D Furnace Constructor
+[FileVersion]=1.0.0.0
+[InternalName]=FurnaceConstructor
+[LegalCopyright]=Copyright 2026
+[OriginalFilename]=FurnaceConstructor.exe
+[ProductName]=3D Furnace Constructor - Delphi 7
+[ProductVersion]=1.0.0.0
